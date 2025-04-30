@@ -1,0 +1,35 @@
+[
+  {
+    "id": 7,
+    "title": "Politeness & Manners",
+    "level": "Beginner",
+    "content": [
+      {
+        "type": "header",
+        "data": "Introduction"
+      },
+      {
+        "type": "text",
+        "data": "Politeness is an essential part of communication. In English, we use words like 'please', 'thank you', and 'sorry' to show respect."
+      },
+      {
+        "type": "example",
+        "data": "Example: Please pass me the salt. Thank you for your help!"
+      },
+      {
+        "type": "header",
+        "data": "Important Phrases"
+      },
+      {
+        "type": "text",
+        "data": "Important polite phrases include:\n- Excuse me\n- Please\n- Thank you\n- Sorry"
+      },
+      {
+        "type": "quiz",
+        "question": "Which word is used to show gratitude?",
+        "options": ["Sorry", "Thank you", "Excuse me"],
+        "answer": "Thank you"
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": 9,
+    "title": "Basic Grammar",
+    "level": "Beginner",
+    "content": [
+      {
+        "type": "header",
+        "data": "Introduction"
+      },
+      {
+        "type": "text",
+        "data": "Grammar is the set of rules that govern how sentences are formed in English. Let's start with basic sentence structures."
+      },
+      {
+        "type": "example",
+        "data": "Example: I am a student. (Subject + Verb + Object)"
+      },
+      {
+        "type": "header",
+        "data": "Sentence Structure"
+      },
+      {
+        "type": "text",
+        "data": "A basic sentence in English has a subject, verb, and object. For example, 'I eat pizza'."
+      },
+      {
+        "type": "quiz",
+        "question": "Which part of the sentence represents the action?",
+        "options": ["Subject", "Verb", "Object"],
+        "answer": "Verb"
+      }
+    ]
+  }
+]

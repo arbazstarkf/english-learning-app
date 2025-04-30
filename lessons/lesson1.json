@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "Greetings & Introductions",
+    "level": "Beginner",
+    
+    "content": [
+      {
+        "type": "header",
+        "data": "Greetings"
+      },
+      {
+        "type": "text",
+        "data": "When meeting someone for the first time, you can say 'Hello', 'Hi', or 'Good morning'."
+      },
+      {
+        "type": "example",
+        "data": "Example: Hello! My name is Raj. How are you?"
+      },
+      {
+        "type": "header",
+        "data": "Introducing Yourself"
+      },
+      {
+        "type": "text",
+        "data": "To introduce yourself, you can say, 'My name is [your name]'. For example, 'My name is Raj'."
+      },
+      {
+        "type": "example",
+        "data": "Example: Hi, I’m Raj. It’s nice to meet you!"
+      },
+      {
+        "type": "quiz",
+        "question": "What do you say when you first meet someone?",
+        "options": ["Good morning", "Goodbye", "Later"],
+        "answer": "Good morning"
+      },
+      {
+        "type": "header",
+        "data": "Practice"
+      },
+      {
+        "type": "text",
+        "data": "Now, practice introducing yourself with a friend or a mirror. Say 'Hi, I’m [your name], nice to meet you!'"
+      }
+    ]
+  }
+]

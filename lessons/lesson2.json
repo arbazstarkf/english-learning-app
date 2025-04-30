@@ -1,0 +1,36 @@
+[
+  {
+    "id": 2,
+    "title": "Common Expressions",
+    "level": "Beginner",
+    
+    "content": [
+      {
+        "type": "header",
+        "data": "Introduction"
+      },
+      {
+        "type": "text",
+        "data": "In daily conversations, certain phrases are commonly used. For instance, 'How are you?' is a standard greeting."
+      },
+      {
+        "type": "example",
+        "data": "Example: How are you? I'm doing well, thank you!"
+      },
+      {
+        "type": "header",
+        "data": "Useful Expressions"
+      },
+      {
+        "type": "text",
+        "data": "Here are some useful expressions: 'Can I help you?', 'Excuse me', 'Please', 'Thank you'."
+      },
+      {
+        "type": "quiz",
+        "question": "Which phrase is used to ask how someone is?",
+        "options": ["How are you?", "What is your name?", "Where are you from?"],
+        "answer": "How are you?"
+      }
+    ]
+  }
+]

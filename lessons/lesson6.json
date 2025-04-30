@@ -1,0 +1,35 @@
+[
+  {
+    "id": 6,
+    "title": "Making Requests",
+    "level": "Beginner",
+    "content": [
+      {
+        "type": "header",
+        "data": "Introduction"
+      },
+      {
+        "type": "text",
+        "data": "Making requests politely is important in English. Common requests include asking for help, asking for permission, and ordering food."
+      },
+      {
+        "type": "example",
+        "data": "Example: Can you help me with this task?"
+      },
+      {
+        "type": "header",
+        "data": "Polite Phrases"
+      },
+      {
+        "type": "text",
+        "data": "Here are some polite phrases you can use to make requests:\n- Can you...\n- Could you please...\n- May I..."
+      },
+      {
+        "type": "quiz",
+        "question": "Which phrase is used to ask for help?",
+        "options": ["Can you help me?", "I will do it.", "Excuse me."],
+        "answer": "Can you help me?"
+      }
+    ]
+  }
+]

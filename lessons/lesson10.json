@@ -1,0 +1,35 @@
+[
+  {
+    "id": 10,
+    "title": "Simple Conversations",
+    "level": "Beginner",
+    "content": [
+      {
+        "type": "header",
+        "data": "Introduction"
+      },
+      {
+        "type": "text",
+        "data": "Engage in simple conversations to practice everyday English. Start with greetings and introduce yourself."
+      },
+      {
+        "type": "example",
+        "data": "Example: A: Hi! How are you? B: I'm good, thanks! How about you?"
+      },
+      {
+        "type": "header",
+        "data": "Conversation Phrases"
+      },
+      {
+        "type": "text",
+        "data": "Here are some phrases you can use:\n- How are you?\n- I'm good, thank you.\n- What's your name?"
+      },
+      {
+        "type": "quiz",
+        "question": "What do you say when you want to know someone's name?",
+        "options": ["How are you?", "What's your name?", "Where are you from?"],
+        "answer": "What's your name?"
+      }
+    ]
+  }
+]

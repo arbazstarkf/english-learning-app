@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5,
+    "title": "Everyday Vocabulary",
+    "level": "Beginner",
+    "content": [
+      {
+        "type": "header",
+        "data": "Introduction"
+      },
+      {
+        "type": "text",
+        "data": "Learning everyday vocabulary helps you describe common objects and situations."
+      },
+      {
+        "type": "example",
+        "data": "Example: Apple, book, car, house."
+      },
+      {
+        "type": "header",
+        "data": "Common Objects"
+      },
+      {
+        "type": "text",
+        "data": "Here are some common objects you will encounter:\n- Table\n- Chair\n- Phone\n- Laptop"
+      },
+      {
+        "type": "quiz",
+        "question": "Which word represents a device you use to call someone?",
+        "options": ["Phone", "Car", "Table"],
+        "answer": "Phone"
+      }
+    ]
+  }
+]

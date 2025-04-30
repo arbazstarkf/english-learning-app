@@ -1,0 +1,35 @@
+[
+  {
+    "id": 8,
+    "title": "Numbers, Time & Dates",
+    "level": "Beginner",
+    "content": [
+      {
+        "type": "header",
+        "data": "Introduction"
+      },
+      {
+        "type": "text",
+        "data": "In English, numbers, time, and dates are essential for everyday communication. Learn how to ask and tell the time."
+      },
+      {
+        "type": "example",
+        "data": "Example: It is 3 o'clock in the afternoon."
+      },
+      {
+        "type": "header",
+        "data": "Common Phrases"
+      },
+      {
+        "type": "text",
+        "data": "Here are some common phrases related to time and dates:\n- What time is it?\n- Today is Monday.\n- It's 5 o'clock."
+      },
+      {
+        "type": "quiz",
+        "question": "What do you say to ask about the time?",
+        "options": ["What time is it?", "Where are you?", "What day is it?"],
+        "answer": "What time is it?"
+      }
+    ]
+  }
+]
