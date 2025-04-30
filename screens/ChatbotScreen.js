@@ -15,7 +15,7 @@ import {
 import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
 
-const API_KEY = '';
+const API_KEY = 'AIzaSyBYltHosOCe3EwoQYka0oVevCyqsCNTTCY';
 const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
 export default function ChatbotScreen() {
